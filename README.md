@@ -1,14 +1,16 @@
 # Pomodoro js
 
-Pomodoro js is a task management app based on the task and break timers which lets you do work efficiently while keeping track of the time. This App is based on the earlier version of it which I developed using react and node.
-Url of earlier version
-client: https://github.com/gaurav-celestial/pomodoro
-server: https://github.com/gaurav-celestial/pomodoro-backend
+Pomodoro js is a task management app based on the task and break timers which lets you do work efficiently while keeping track of the time. This App is based on the previous version of it which I developed using react js and node js.
+
+**Urls of previous version:**
+
+- client: https://github.com/gaurav-celestial/pomodoro
+- server: https://github.com/gaurav-celestial/pomodoro-backend
 
 ## Objectives
 
 - Conversion of JSX to html.
-- Understanding css modules from react and using those modules in this project to achieve to exact styling.
+- Understanding css modules from react and using those modules in this project to achieve the exact styling.
 - Conversion of react based functionality to javascript based functionality.
 - Working without state changes.
 
@@ -24,7 +26,7 @@ Run the server by going in the directory 'server' and run the following commands
 - npm start
 
 **Run Client:**
-Run the client by going in the directory 'client/homepage' and open the file 'index.html'.
+Run the client by going in the directory 'client/homepage' and open the file 'index.html' while the server is running.
 
 **User Interactions:**
 
