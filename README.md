@@ -29,7 +29,8 @@ Run the server by going in the directory 'server' and run the following commands
 Run the client by going in the directory 'client' and by running the following the following commands.
 
 - npm install http-server
-- http-server homepage
+- http-server
+- visit localhost:8080 in browser and click on homepage
 
 **User Interactions:**
 
