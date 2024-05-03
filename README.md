@@ -26,7 +26,10 @@ Run the server by going in the directory 'server' and run the following commands
 - npm start
 
 **Run Client:**
-Run the client by going in the directory 'client/homepage' and open the file 'index.html' while the server is running.
+Run the client by going in the directory 'client' and by running the following the following commands.
+
+- npm install http-server
+- http-server homepage
 
 **User Interactions:**
 
